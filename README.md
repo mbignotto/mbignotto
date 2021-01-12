@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus Bignotto 👋
 
 :computer: Desenvolvedor Front-End com foco em ReactJs && React Native. <br />
-📚 Estudo para me tornar um desenvolvedor Full-Stack <br />
+📚 Estudo para me tornar um desenvolvedor Full-Stack. <br />
 🎮 Gosto de jogar no tempo livre. <br />
 
 ## My tools && Languages
