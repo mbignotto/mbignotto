@@ -17,10 +17,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="max-width:100%;"></img>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mbignotto&show_icons=true&theme=midnight-purple)](https://github.com/mbignotto/github-readme-stats) <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbignotto)](https://github.com/mbignotto/github-readme-stats)
-
 <!--
 **mbignotto/mbignotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
